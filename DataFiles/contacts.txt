@@ -1,0 +1,8 @@
+name1,987654321,name1_6543@gmail.com
+name2,765432121,vfgbvgh@apssdc.in
+vis,98765432123,viswanth@gmail.com
+vis,98765432123,viswanth@gmail.com
+vis,98765432123,viswanth@gmail.com
+vis,98765432123,viswanth@gmail.com
+viswanth,9876541234,adsfg@gmail.com
+{'name1': [9876543211, 'name1@gmail.com'], 'srinu': [9876543234, 'kjhgfgh@gmail.com']}
